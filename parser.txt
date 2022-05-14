@@ -1,0 +1,19 @@
+Function Parameter : 
+TYPE : int
+ID : y
+
+Function Parameter : 
+TYPE : int
+ID : x
+
+Function : func
+Function Parameter : 
+TYPE : int
+ID : y
+
+Function Parameter : 
+TYPE : int
+ID : x
+
+Function Body : 
+The given Code is Invalid
